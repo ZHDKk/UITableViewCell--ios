@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F09BEE081F53FED000383138"
-               BuildableName = "UITableView&#x9ad8;&#x7ea7;&#x534f;&#x8bae;.app"
-               BlueprintName = "UITableView&#x9ad8;&#x7ea7;&#x534f;&#x8bae;"
-               ReferencedContainer = "container:UITableView&#x9ad8;&#x7ea7;&#x534f;&#x8bae;.xcodeproj">
+               BuildableName = "UITableView&#x5355;&#x5143;&#x683c;.app"
+               BlueprintName = "UITableView&#x5355;&#x5143;&#x683c;"
+               ReferencedContainer = "container:UITableView&#x5355;&#x5143;&#x683c;.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F09BEE211F53FED000383138"
-               BuildableName = "UITableView&#x9ad8;&#x7ea7;&#x534f;&#x8bae;Tests.xctest"
-               BlueprintName = "UITableView&#x9ad8;&#x7ea7;&#x534f;&#x8bae;Tests"
-               ReferencedContainer = "container:UITableView&#x9ad8;&#x7ea7;&#x534f;&#x8bae;.xcodeproj">
+               BuildableName = "UITableView&#x5355;&#x5143;&#x683c;Tests.xctest"
+               BlueprintName = "UITableView&#x5355;&#x5143;&#x683c;Tests"
+               ReferencedContainer = "container:UITableView&#x5355;&#x5143;&#x683c;.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F09BEE2C1F53FED000383138"
-               BuildableName = "UITableView&#x9ad8;&#x7ea7;&#x534f;&#x8bae;UITests.xctest"
-               BlueprintName = "UITableView&#x9ad8;&#x7ea7;&#x534f;&#x8bae;UITests"
-               ReferencedContainer = "container:UITableView&#x9ad8;&#x7ea7;&#x534f;&#x8bae;.xcodeproj">
+               BuildableName = "UITableView&#x5355;&#x5143;&#x683c;UITests.xctest"
+               BlueprintName = "UITableView&#x5355;&#x5143;&#x683c;UITests"
+               ReferencedContainer = "container:UITableView&#x5355;&#x5143;&#x683c;.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F09BEE081F53FED000383138"
-            BuildableName = "UITableView&#x9ad8;&#x7ea7;&#x534f;&#x8bae;.app"
-            BlueprintName = "UITableView&#x9ad8;&#x7ea7;&#x534f;&#x8bae;"
-            ReferencedContainer = "container:UITableView&#x9ad8;&#x7ea7;&#x534f;&#x8bae;.xcodeproj">
+            BuildableName = "UITableView&#x5355;&#x5143;&#x683c;.app"
+            BlueprintName = "UITableView&#x5355;&#x5143;&#x683c;"
+            ReferencedContainer = "container:UITableView&#x5355;&#x5143;&#x683c;.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F09BEE081F53FED000383138"
-            BuildableName = "UITableView&#x9ad8;&#x7ea7;&#x534f;&#x8bae;.app"
-            BlueprintName = "UITableView&#x9ad8;&#x7ea7;&#x534f;&#x8bae;"
-            ReferencedContainer = "container:UITableView&#x9ad8;&#x7ea7;&#x534f;&#x8bae;.xcodeproj">
+            BuildableName = "UITableView&#x5355;&#x5143;&#x683c;.app"
+            BlueprintName = "UITableView&#x5355;&#x5143;&#x683c;"
+            ReferencedContainer = "container:UITableView&#x5355;&#x5143;&#x683c;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F09BEE081F53FED000383138"
-            BuildableName = "UITableView&#x9ad8;&#x7ea7;&#x534f;&#x8bae;.app"
-            BlueprintName = "UITableView&#x9ad8;&#x7ea7;&#x534f;&#x8bae;"
-            ReferencedContainer = "container:UITableView&#x9ad8;&#x7ea7;&#x534f;&#x8bae;.xcodeproj">
+            BuildableName = "UITableView&#x5355;&#x5143;&#x683c;.app"
+            BlueprintName = "UITableView&#x5355;&#x5143;&#x683c;"
+            ReferencedContainer = "container:UITableView&#x5355;&#x5143;&#x683c;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
